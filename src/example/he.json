@@ -1,0 +1,28 @@
+{
+  "hello": "שלום",
+  "goodbye": "להתראות",
+  "thank_you": "תודה",
+  "welcome": "ברוך הבא",
+  "loading": "טוען...",
+  "save": "שמור",
+  "cancel": "בטל",
+  "search": "חיפוש",
+  "language": "שפה",
+  "settings": "הגדרות",
+  "home": "דף הבית",
+  "profile": "פרופיל",
+  "logout": "התנתק",
+  "login": "התחבר",
+  "email": "אימייל",
+  "password": "סיסמה",
+  "submit": "שלח",
+  "edit": "ערוך",
+  "delete": "מחק",
+  "error": "שגיאה",
+  "test": {
+    "a": "a",
+    "MORE": {
+      "a": "עוד a"
+    }
+  }
+}

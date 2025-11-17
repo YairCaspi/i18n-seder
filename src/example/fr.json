@@ -1,0 +1,28 @@
+{
+  "hello": "Bonjour",
+  "goodbye": "Au revoir",
+  "thank_you": "Merci",
+  "welcome": "Bienvenue",
+  "loading": "Chargement...",
+  "save": "Enregistrer",
+  "cancel": "Annuler",
+  "search": "Rechercher",
+  "language": "Langue",
+  "settings": "Paramètres",
+  "home": "Accueil",
+  "profile": "Profil",
+  "logout": "Déconnexion",
+  "login": "Connexion",
+  "email": "E-mail",
+  "password": "Mot de passe",
+  "submit": "Envoyer",
+  "edit": "Éditer",
+  "delete": "Supprimer",
+  "error": "Erreur",
+  "test": {
+    "a": "a",
+    "MORE": {
+      "a": "more a"
+    }
+  }
+}

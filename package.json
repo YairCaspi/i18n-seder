@@ -1,0 +1,25 @@
+{
+  "name": "seder-18",
+  "version": "1.0.0",
+  "description": "CLI tool to manage JSON translations",
+  "main": "src/cli.js",
+  "bin": {
+    "seder": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "start:example": "node src/cli.js --dir ./src/example --main en",
+    "build-ui": "cd src/frontend && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "minimist": "^1.2.8",
+    "yargs": "^17.7.2"
+  }
+}

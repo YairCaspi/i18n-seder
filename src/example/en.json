@@ -1,0 +1,29 @@
+{
+  "hello": "Hello",
+  "goodbye": "Goodbye",
+  "thank_you": "Thank you",
+  "welcome": "Welcome",
+  "loading": "Loading...",
+  "save": "Save",
+  "cancel": "Cancel",
+  "search": "Search",
+  "language": "Language",
+  "settings": "Settings",
+  "home": "Home",
+  "profile": "Profile",
+  "logout": "Logout",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Submit",
+  "edit": "Edit",
+  "delete": "Delete",
+  "error": "Error",
+  "test": {
+    "a": "a",
+    "b": "b",
+    "MORE": {
+      "a": "more a"
+    }
+  }
+}
