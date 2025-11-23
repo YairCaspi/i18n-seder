@@ -25,5 +25,7 @@
     "MORE": {
       "a": "more a"
     }
-  }
+  },
+  "test.MORE.a": "more a",
+  "test.b": "b"
 }

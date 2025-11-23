@@ -23,6 +23,9 @@
     "a": "a",
     "MORE": {
       "a": "more a"
-    }
-  }
+    },
+    "b": "bbbb"
+  },
+  "test.MORE.a": "more a",
+  "test.b": "bbbb"
 }

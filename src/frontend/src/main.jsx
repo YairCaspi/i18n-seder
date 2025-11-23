@@ -1,6 +1,11 @@
 // Bootstraps the React app. This runs in dev build-time and is compiled during `npm run build`.
-import { createRoot } from "react-dom/client";
+import ReactDOM from "react-dom/client";
+import { MantineProvider } from '@mantine/core';
 import App from "./App";
-import "./index.css";
+// import './index.css'
 
-createRoot(document.getElementById("root")).render(<App />);
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <MantineProvider>
+    <App />
+  </MantineProvider>
+);
