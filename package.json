@@ -13,7 +13,7 @@
   },
   "files": [
     "src/cli.js",
-    "src/client/dist",
+    "src/client/dist/",
     "src/backend/index.js",
     "src/backend/translations.js",
     "package.json",
