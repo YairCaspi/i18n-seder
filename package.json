@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/i18n-seder.git"
+    "url": "https://github.com/YairCaspi/i18n-seder.git"
   },
-  "homepage": "https://github.com/USERNAME/i18n-seder#readme",
+  "homepage": "https://github.com/YairCaspi/i18n-seder#readme",
   "bugs": {
-    "url": "https://github.com/USERNAME/i18n-seder/issues"
+    "url": "https://github.com/YairCaspi/i18n-seder/issues"
   },
   "scripts": {
     "start": "node src/cli.js --dir ./src/example",
