@@ -12,14 +12,14 @@
     "build": "cd src/client && npm run build"
   },
   "files": [
-    "src/client/dist",
     "src/cli.js",
+    "src/client/dist",
     "src/backend/index.js",
     "src/backend/translations.js",
     "package.json",
     "README.md"
   ],
-  "keywords": [],
+  "keywords": ["i18n", "translations", "editor"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
