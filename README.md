@@ -4,7 +4,7 @@ A lightweight, zero‑config translation management UI for developers working wi
 
 i18n-seder lets you browse, search, edit, and save your translation files through a clean web interface — directly inside your project.
 
-🚀 Features
+## 🚀 Features
 
 📝 Edit translations via browser UI (no more editing huge JSON files manually)
 
@@ -18,10 +18,10 @@ i18n-seder lets you browse, search, edit, and save your translation files throug
 
 🔧 CLI tool — run it from your project with zero setup
 
-📸 Screenshot
+## 📸 Screenshot
 
 
-📦 Installation
+## 📦 Installation
 
 Install globally or locally:
 
@@ -29,7 +29,7 @@ Install globally or locally:
 npm install i18n-seder --save-dev
 ```
 
-🛠 Usage
+## 🛠 Usage
 
 Add a script to your project's package.json:
 
@@ -95,7 +95,7 @@ When you edit a value → updates only that file
 
 No build process, no watchers, no special config.
 
-🛤 Roadmap
+## 🛤 Roadmap
 
 ✔ Table editor
 
@@ -104,16 +104,16 @@ No build process, no watchers, no special config.
 ⏳ Export/import CSV
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! If you have ideas, feel free to open an issue.
 
-⭐ Support
+## ⭐ Support
 
 If you like this tool — please leave a star on GitHub 🙏
 (It really helps this project grow.)
 
-📄 License
+## 📄 License
 
 MIT License.
 
